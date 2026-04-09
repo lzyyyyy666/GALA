@@ -25,7 +25,7 @@ It converts visual inputs into structured image graphs, aligns them with reposit
 ## Installation
 
 ```bash
-git clone <your-gala-repo-url>
+git clone https://github.com/lzyyyyy666/GALA.git
 cd GALA
 
 export PYTHONPATH=./
