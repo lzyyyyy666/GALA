@@ -1,4 +1,4 @@
-# GALA: Graph-Aligned Visual Repair for Multimodal Program Repair
+# GALA: Multimodal Graph Alignment for Bug Localization in Automated Program Repair
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
